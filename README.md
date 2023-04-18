@@ -7,12 +7,16 @@
 
 Este repositorio es una herramienta para aprender los conceptos básicos de Python y practicar con ejercicios de nivel básico.
 
+<br>
+<br>
 
 ## **Contenido**
 
 - [`conceptos_basicos`](url) :carpeta con archivos de Python que explican los conceptos básicos del lenguaje de programación.
 - [`ejercicios`](url) :carpeta con 100 ejercicios de nivel básico para practicar con Python.
 
+<br>
+<br>
 
 ## **¿Cómo usar este repositorio?**
 
@@ -30,8 +34,16 @@ Este repositorio es una herramienta para aprender los conceptos básicos de Pyth
 
 5. Ejecuta el archivo de Python para comprobar si tu solución funciona correctamente.
 
-
+<br>
+<br>
 
 ## **Contribuciones**
 
 Siéntete libre de enviar una pull request con nuevas soluciones a los ejercicios, mejoras en los conceptos básicos o cualquier otro cambio que consideres necesario. ¡Las contribuciones son bienvenidas!
+
+<br>
+<br>
+
+## **Licencia**
+
+Este repositorio está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
