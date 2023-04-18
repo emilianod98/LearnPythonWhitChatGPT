@@ -30,9 +30,9 @@ Recuerda que este repositorio es una herramienta educativa que está destinada a
 
 1. Clona el repositorio en tu ordenador:
 
-<p align="center">
-  <img src="./src/git-clone.png">
-</p>
+```
+git clone https://github.com/emilianod98/PythonChallenges-LowLevel
+```
 
 2. Abre el archivo [`conceptos_basicos`](url) y lee los archivos de Python para familiarizarte con los conceptos básicos del lenguaje.
 
