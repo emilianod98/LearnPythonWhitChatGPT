@@ -12,9 +12,6 @@ Esta guía tiene como objetivo proporcionarte una introducción a los conceptos 
   <img src="../src/ranking01.png">
 </p>
 
-<p align="center">
-  <img src="../src/ranking02.png">
-</p>
 
 En esta guía encontrarás información sobre los siguientes conceptos básicos:
 
@@ -37,3 +34,7 @@ En esta guía encontrarás información sobre los siguientes conceptos básicos:
 Esta guía está diseñada para principiantes en Python y no se asume ningún conocimiento previo de programación. Si ya tienes experiencia en programación, algunos de estos conceptos pueden resultarte familiares, pero te recomendamos revisarlos de todos modos para asegurarte de que tienes una comprensión sólida de los fundamentos de Python.
 
 ¡Empecemos!
+
+<p align="center">
+  <img src="../src/start.png">
+</p>
