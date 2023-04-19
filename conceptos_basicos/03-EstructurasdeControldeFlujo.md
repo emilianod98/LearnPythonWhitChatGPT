@@ -28,7 +28,7 @@ else:
 Las estructuras de bucles permiten ejecutar un bloque de código varias veces. En Python, las estructuras de bucles más comunes son el `while` y el `for`.
 
 
-El `while` se utiliza para ejecutar un bloque de código mientras se cumpla una condición.
+- El `while` se utiliza para ejecutar un bloque de código mientras se cumpla una condición.
 
 Por ejemplo, aquí hay un código que utiliza un bucle `while` para contar hasta 5:
 
@@ -42,7 +42,7 @@ while contador < 5:
 
 
 
-El `for` se utiliza para recorrer una secuencia de elementos, como una lista o una cadena de texto...
+- El `for` se utiliza para recorrer una secuencia de elementos, como una lista o una cadena de texto...
 
 Por ejemplo, aquí hay un código que utiliza un bucle `for` para recorrer una lista de nombres e imprimir cada uno de ellos:
 
