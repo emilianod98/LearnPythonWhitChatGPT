@@ -5,7 +5,7 @@
 
 # ***GUÍA DE CONCEPTOS BÁSICOS DE PYTHON***
 
-¡Bienvenido!<br>
+### **¡Bienvenido!**<br>
 Esta guía tiene como objetivo proporcionarte una introducción a los conceptos básicos de Python, uno de los lenguajes de programación más populares y utilizados en la actualidad.
 
 <p align="center">
