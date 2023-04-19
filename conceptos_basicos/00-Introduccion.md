@@ -5,13 +5,14 @@
 
 # ***GUÍA DE CONCEPTOS BÁSICOS DE PYTHON***
 
-¡Bienvenido! 
+¡Bienvenido!<br>
 Esta guía tiene como objetivo proporcionarte una introducción a los conceptos básicos de Python, uno de los lenguajes de programación más populares y utilizados en la actualidad.
 
 <p align="center">
   <img src="../src/ranking01.png">
 </p>
 
+---
 
 En esta guía encontrarás información sobre los siguientes conceptos básicos:
 
@@ -37,6 +38,7 @@ Aprenderás a leer y escribir archivos en Python, y cómo manejar la entrada y s
 ### 7. **[`MÓDULOS Y PAQUETES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/01-Variables%26TiposDeDatos.md)** 
 Conocerás los conceptos de módulos y paquetes en Python, y cómo importarlos y usarlos en tu programa.
 
+---
 
 Esta guía está diseñada para principiantes en Python y no se asume ningún conocimiento previo de programación. Si ya tienes experiencia en programación, algunos de estos conceptos pueden resultarte familiares, pero te recomendamos revisarlos de todos modos para asegurarte de que tienes una comprensión sólida de los fundamentos de Python.
 
