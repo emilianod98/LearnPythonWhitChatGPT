@@ -3,27 +3,37 @@
 </p>
 
 
-# ***Guía de Conceptos Básicos de Python***
+# ***Variables y Tipos de Datos***
 
-¡Bienvenido! 
-Esta guía tiene como objetivo proporcionarte una introducción a los conceptos básicos de Python, uno de los lenguajes de programación más populares y utilizados en la actualidad.
+Las variables son como cajas en las que puedes almacenar diferentes tipos de datos, como números, cadenas de texto, booleanos, entre otros. En Python, puedes crear una variable simplemente dando un nombre a la variable y asignándole un valor. Por ejemplo, si quisieras crear una variable llamada "edad" y asignarle el valor de 25, podrías escribir lo siguiente en tu programa de Python:
 
-En esta guía encontrarás información sobre los siguientes conceptos básicos:
+```
+edad = 25
+```
 
-1. **Variables y tipos de datos:** Aprenderás a crear variables y almacenar diferentes tipos de datos como números, cadenas de texto y booleanos.
+En este caso, **"edad"** es el nombre de la variable y **"25"** es el valor que se le asigna.
+---
 
-2. **Operadores:** Conocerás los diferentes tipos de operadores en Python, como aritméticos, de comparación y lógicos, y cómo usarlos para realizar operaciones.
+Python tiene diferentes tipos de datos, como:
 
-3. **Estructuras de control de flujo:** Aprenderás a usar estructuras de control de flujo como los bucles for y while, y las declaraciones condicionales if, elif y else para controlar el flujo del programa.
+- **Números:** que pueden ser enteros (int) o decimales (float).
+- **Cadenas de texto** (str): que son un conjunto de caracteres entre comillas.
+- **Booleanos** (bool): que solo pueden ser True o False.
 
-4. **Funciones:** Aprenderás a crear y llamar funciones en Python, y cómo usar argumentos y parámetros.
+Aquí hay algunos ejemplos de cómo crear variables con diferentes tipos de datos:
 
-5. **Listas, tuplas y diccionarios:** Conocerás las diferentes estructuras de datos en Python, como listas, tuplas y diccionarios, y cómo usarlas para almacenar y manipular conjuntos de datos.
+```
+numero_entero = 42
+numero_decimal = 3.14
+nombre = "Juan"
+es_mayor_de_edad = True
 
-6. **Archivos y entrada/salida:** Aprenderás a leer y escribir archivos en Python, y cómo manejar la entrada y salida de datos en tu programa.
+```
 
-7. **Módulos y paquetes:** Conocerás los conceptos de módulos y paquetes en Python, y cómo importarlos y usarlos en tu programa.
+Recuerda que en Python, el nombre de una variable **NO** puede **EMPEZAR:** 
+- Con un **NÚMERO**
+- Debe estar en **MINÚSCULAS**
+- Se puede separar palabras con **GUIONES BAJOS**. 
+Por ejemplo, **"numero_entero"** ES un nombre de variable válido, mientras que **"NumeroEntero"** NO LO ES.
 
-Esta guía está diseñada para principiantes en Python y no se asume ningún conocimiento previo de programación. Si ya tienes experiencia en programación, algunos de estos conceptos pueden resultarte familiares, pero te recomendamos revisarlos de todos modos para asegurarte de que tienes una comprensión sólida de los fundamentos de Python.
-
-¡Empecemos!
+Es importante comprender los conceptos de variables y tipos de datos, ya que son fundamentales para la mayoría de programas que escribirás en Python. Con ellos, podrás almacenar y manipular datos de manera eficiente.
