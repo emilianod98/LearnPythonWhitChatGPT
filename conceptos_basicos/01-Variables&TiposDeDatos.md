@@ -27,7 +27,6 @@ numero_entero = 42
 numero_decimal = 3.14
 nombre = "Juan"
 es_mayor_de_edad = True
-
 ```
 
 Recuerda que en Python, el nombre de una variable **NO** puede **EMPEZAR:** 
