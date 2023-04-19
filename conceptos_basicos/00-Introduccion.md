@@ -26,16 +26,16 @@ Conocerás los diferentes tipos de operadores en Python, como aritméticos, de c
 ### 3. **[`ESTRUCTURAS DE CONTROL DE FLUJO:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/03-EstructurasdeControldeFlujo.md)** 
 Aprenderás a usar estructuras de control de flujo como los bucles for y while, y las declaraciones condicionales if, elif y else para controlar el flujo del programa.
 
-### 4. **[`FUNCIONES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/01-Variables%26TiposDeDatos.md)** 
+### 4. **[`FUNCIONES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/04-Funciones.md)** 
 Aprenderás a crear y llamar funciones en Python, y cómo usar argumentos y parámetros.
 
-### 5. **[`LISTAS,TUPLAS Y DICCIONARIOS:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/01-Variables%26TiposDeDatos.md)** 
+### 5. **[`LISTAS,TUPLAS Y DICCIONARIOS:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/05-ListasTuplasYDiccionarios.md)** 
 Conocerás las diferentes estructuras de datos en Python, como listas, tuplas y diccionarios, y cómo usarlas para almacenar y manipular conjuntos de datos.
 
-### 6. **[`ARCHIVOS Y ENTRADA/SALIDA:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/01-Variables%26TiposDeDatos.md)** 
+### 6. **[`ARCHIVOS Y ENTRADA/SALIDA:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/06-ArchivosEntradaSalida.md)** 
 Aprenderás a leer y escribir archivos en Python, y cómo manejar la entrada y salida de datos en tu programa.
 
-### 7. **[`MÓDULOS Y PAQUETES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/01-Variables%26TiposDeDatos.md)** 
+### 7. **[`MÓDULOS Y PAQUETES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/07-ModulosPaquetes.md)** 
 Conocerás los conceptos de módulos y paquetes en Python, y cómo importarlos y usarlos en tu programa.
 
 ---
