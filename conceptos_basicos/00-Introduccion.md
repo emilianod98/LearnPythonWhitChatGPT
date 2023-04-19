@@ -36,5 +36,5 @@ Esta guía está diseñada para principiantes en Python y no se asume ningún co
 ¡Empecemos!
 
 <p align="center">
-  <img src="../src/start.png">
+  <img src="../src/coding.png">
 </p>
