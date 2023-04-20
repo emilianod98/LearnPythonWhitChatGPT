@@ -7,6 +7,7 @@
 
 Los operadores son símbolos o palabras reservadas que se utilizan para realizar operaciones en Python. Los operadores más comunes en Python son:
 
+<br>
 
 ###  **• OPERADORES ARITMÉTICOS**
 
@@ -21,6 +22,7 @@ Los operadores aritméticos se utilizan para realizar operaciones matemáticas c
 ** # Potencia (por ejemplo, 2**3 significa 2 elevado a la tercera potencia)
 ```
 
+---
 
 ###  **• OPERADORES DE COMPARACIÓN**
 
@@ -34,6 +36,8 @@ Los operadores de comparación se utilizan para comparar dos valores y devolver 
 <= # Menor o igual que
 >= # Mayor o igual que
 ```
+
+---
 
 ###  **• OPERADORES LÓGICOS**
 
