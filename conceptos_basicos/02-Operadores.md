@@ -74,7 +74,7 @@ En este ejemplo, se asignan los valores 10 y 5 a las variables `a` y `b`, respec
 
 Es importante comprender cómo funcionan los operadores en Python, ya que te permiten realizar cálculos y comparaciones en tus programas. Con ellos, podrás crear programas más sofisticados y realizar operaciones más complejas. Ahora, si estás listo, podemos continuar con el siguiente concepto: 
 
-### 3. **[`ESTRUCTURAS DE CONTROL DE FLUJO:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/03-EstructurasdeControldeFlujo.md)**
+### **[`ESTRUCTURAS DE CONTROL DE FLUJO:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/03-EstructurasdeControldeFlujo.md)**
 
 <p align="center">
   <img src="../src/helloword.png">
