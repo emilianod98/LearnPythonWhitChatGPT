@@ -62,7 +62,7 @@ Las estructuras de control de flujo en Python son esenciales para controlar el f
 
 ---
 
-### **PRÓXIMO CONCEPTO: [`FUNCIONES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/04-Funciones.md)** 
+### **PRÓXIMO CONCEPTO: [`FUNCIONES`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/04-Funciones.md)** 
 
 Ahora que has aprendido acerca de las estructuras de control de flujo en Python, es hora de adentrarse en el mundo de las funciones. Las funciones son bloques de código que pueden ser llamados en cualquier momento dentro de un programa, permitiendo la reutilización de código y simplificando el proceso de programación. En Python, existen funciones predefinidas como `print()` y `len()`, así como la posibilidad de definir tus propias funciones personalizadas. Aprender acerca de las funciones te ayudará a crear programas más eficientes y organizados. ¡Sigue adelante en tu aprendizaje de Python!
 
