@@ -8,6 +8,9 @@
 Las estructuras de control de flujo son una parte fundamental de cualquier lenguaje de programación y permiten controlar el flujo de ejecución de un programa. En Python, las estructuras de control de flujo más comunes son las siguientes:
 <br>
 
+---
+
+
 ### **• ESTRUCTURAS CONDICIONALES:** 
 
 Las estructuras condicionales permiten ejecutar diferentes bloques de código dependiendo de si se cumple o no una condición. En Python, la estructura condicional más común es el `if`.
@@ -23,7 +26,11 @@ else:
     print("El número es impar")
 ```
 
+---
+
 ### **• ESTRUCTURAS DE BUCLES:** 
+
+<br>
 
 Las estructuras de bucles permiten ejecutar un bloque de código varias veces. En Python, las estructuras de bucles más comunes son el `while` y el `for`.
 
@@ -40,7 +47,7 @@ while contador < 5:
     contador += 1
 ```
 
-
+<br>
 
 - El `for` se utiliza para recorrer una secuencia de elementos, como una lista o una cadena de texto...
 
@@ -55,6 +62,7 @@ for nombre in nombres:
 
 Es importante comprender cómo funcionan las estructuras de control de flujo en Python, ya que te permiten controlar el flujo de ejecución de tu programa y hacer que sea más dinámico e interactivo. Con ellas, podrás crear programas más sofisticados y realizar operaciones más complejas.
 
+---
 
 ### **CONCLUSIÓN:** 
 
