@@ -26,7 +26,9 @@ Las funciones en Python también pueden tener parámetros opcionales y devolver 
 
 Las funciones son una parte importante de cualquier programa en Python, ya que permiten modularizar el código y hacerlo más legible y fácil de mantener. Al definir funciones para realizar tareas específicas, se puede reutilizar el código en diferentes partes del programa, lo que ahorra tiempo y reduce los errores.
 
-###  **PRÓXIMO TEMA:[`LISTAS,TUPLAS Y DICCIONARIOS:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/05-ListasTuplasYDiccionarios.md)**
+---
+
+###  **PRÓXIMO TEMA:[`LISTAS,TUPLAS Y DICCIONARIOS`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/05-ListasTuplasYDiccionarios.md)**
 
 El próximo tema a ver son las estructuras de datos en Python: listas, tuplas y diccionarios. Las listas son una colección ordenada y mutable de elementos, las tuplas son una colección ordenada e inmutable de elementos y los diccionarios son una colección no ordenada de pares clave-valor. Estas estructuras son fundamentales para el manejo de datos en Python y se utilizan en una gran variedad de aplicaciones.
 
