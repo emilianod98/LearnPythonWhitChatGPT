@@ -7,6 +7,8 @@
 
 En Python, hay tres tipos de estructuras de datos que se utilizan comúnmente: `LISTAS`, `TUPLAS` y `DICCIONARIOS`.
 
+---
+
 ### **• LISTAS:**
 
 Una lista es una colección ordenada y mutable de elementos, que se definen entre corchetes (`[]`). Puedes agregar, eliminar y modificar elementos en una lista, y también puedes acceder a ellos mediante su índice (un número que representa su posición en la lista, empezando por 0).
@@ -31,6 +33,8 @@ numeros[2] = 6
 print(numeros)  # Output: [1, 2, 6, 4, 5]
 ```
 
+---
+
 ### **• TUPLAS:**
 
 Una tupla es similar a una lista, pero es inmutable, lo que significa que no se pueden agregar, eliminar o modificar elementos después de que se hayan creado. Las tuplas se definen entre paréntesis (`()`).
@@ -53,6 +57,8 @@ Pero no puedes modificar los elementos de una tupla:
 ```
 colores[1] = "amarillo"  # Esto dará un error
 ```
+
+---
 
 ### **• DICCIONARIOS:**
 
