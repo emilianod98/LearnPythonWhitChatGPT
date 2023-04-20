@@ -17,7 +17,7 @@ edad = 25
 
 En este caso, `edad` es el nombre de la variable y `25` es el valor que se le asigna.
 
-### 1. **TIPOS DE DATOS**
+### 2. **TIPOS DE DATOS**
 
 Python tiene diferentes tipos de datos, como:
 
@@ -34,7 +34,7 @@ nombre = "Juan"
 es_mayor_de_edad = True
 ```
 
-### 1. **REGLAS PARA NOMBRAR A UNA VARIABLE**
+### 3. **REGLAS PARA NOMBRAR A UNA VARIABLE**
 
 Recuerda que en Python, el nombre de una variable:
 
@@ -47,10 +47,14 @@ Por ejemplo, **"numero_entero"** ES un nombre de variable válido, mientras que 
 
 Es importante comprender los conceptos de variables y tipos de datos, ya que son fundamentales para la mayoría de programas que escribirás en Python. Con ellos, podrás almacenar y manipular datos de manera eficiente.
 
-### 1. **CONCLUSIÓN**
+### **CONCLUSIÓN**
 
 En resumen, las variables y los tipos de datos son conceptos fundamentales en Python. Las variables permiten almacenar y manipular diferentes tipos de datos, mientras que los tipos de datos indican el tipo de información que se está manejando. Es importante seguir las reglas de nomenclatura de variables para evitar errores en el código.
 
-### 2. **PRÓXIMO CONCEPTO:[`OPERADORES:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/02-Operadores.md)** 
+### **PRÓXIMO CONCEPTO: [`OPERADORES`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/02-Operadores.md)** 
 
 Ahora que ya conoces los conceptos de variables y tipos de datos en Python, es hora de aprender acerca de los operadores. Los operadores son símbolos o palabras reservadas que permiten realizar operaciones entre variables y valores. Los operadores pueden ser aritméticos, de comparación, lógicos, entre otros. ¡Sigue aprendiendo para convertirte en un experto en Python!
+
+<p align="center">
+  <img src="../src/helloword.png">
+</p>
