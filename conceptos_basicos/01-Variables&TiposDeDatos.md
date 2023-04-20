@@ -51,6 +51,8 @@ Es importante comprender los conceptos de variables y tipos de datos, ya que son
 
 En resumen, las variables y los tipos de datos son conceptos fundamentales en Python. Las variables permiten almacenar y manipular diferentes tipos de datos, mientras que los tipos de datos indican el tipo de información que se está manejando. Es importante seguir las reglas de nomenclatura de variables para evitar errores en el código.
 
+---
+
 ### **PRÓXIMO CONCEPTO: [`OPERADORES`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/02-Operadores.md)** 
 
 Ahora que ya conoces los conceptos de variables y tipos de datos en Python, es hora de aprender acerca de los operadores. Los operadores son símbolos o palabras reservadas que permiten realizar operaciones entre variables y valores. Los operadores pueden ser aritméticos, de comparación, lógicos, entre otros. ¡Sigue aprendiendo para convertirte en un experto en Python!
