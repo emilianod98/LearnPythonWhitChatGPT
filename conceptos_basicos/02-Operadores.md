@@ -77,5 +77,5 @@ Es importante comprender cómo funcionan los operadores en Python, ya que te per
 ### **[`ESTRUCTURAS DE CONTROL DE FLUJO:`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/03-EstructurasdeControldeFlujo.md)**
 
 <p align="center">
-  <img src="../src/helloword.png">
+  <img src="../src/operadores.png">
 </p>
