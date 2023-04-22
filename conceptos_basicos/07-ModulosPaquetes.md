@@ -16,7 +16,7 @@ raiz_cuadrada = math.sqrt(16)
 print(raiz_cuadrada)
 ```
 
-<br>
+---
 
 También puedes importar una función específica de un módulo utilizando la sintaxis `from <módulo> import <función>`:
 
@@ -27,7 +27,7 @@ raiz_cuadrada = sqrt(16)
 print(raiz_cuadrada)
 ```
 
-<br>
+---
 
 Un `paquete` es una colección de módulos que están organizados en una estructura de directorios. Los paquetes permiten organizar el código en módulos relacionados y evitar conflictos de nombres entre módulos. Por ejemplo, el paquete `numpy` contiene módulos relacionados con el cálculo numérico.
 
@@ -40,7 +40,7 @@ raiz_cuadrada = sqrt(16)
 print(raiz_cuadrada)
 ```
 
-<br>
+---
 
 También puedes importar una función específica de un módulo dentro de un paquete utilizando la sintaxis `from <paquete>.<módulo> import <función>`:
 
