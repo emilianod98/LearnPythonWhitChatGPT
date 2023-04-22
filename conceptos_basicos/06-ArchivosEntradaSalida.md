@@ -69,7 +69,16 @@ print("Hola, mundo!")
 
 ---
 
-###  **• CONCLUSIÓN**
+###  **CONCLUSIÓN**
 
 En resumen, en Python puedes trabajar con archivos para leer y escribir información en ellos, y también puedes usar funciones para la entrada/salida en la consola.
+
+---
+
+### **PRÓXIMO CONCEPTO: [`MÓDULOS Y PAQUETES`](https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/conceptos_basicos/07-ModulosPaquetes.md)**
+
+
+<p align="center">
+  <img src="../src/hacker.png">
+</p>
 
