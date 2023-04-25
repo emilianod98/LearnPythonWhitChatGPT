@@ -5,6 +5,7 @@ Escribir un programa que pida al usuario una temperatura en grados Celsius y mue
 °F = °C * 1.8 + 32.
 '''
 
+# Creamos la función convertorCelsiusFahrenheit
 def convertorCelsiusFahrenheit (celsius):
     fahrenheit = celsius * 1.8 + 32
     # Mostramos la temperatura en grados Fahrenheit por pantalla
