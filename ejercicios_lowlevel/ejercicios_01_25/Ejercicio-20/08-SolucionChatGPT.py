@@ -1,6 +1,0 @@
-'''
-
-'''
-
-
-# Solución por ChatGPT
