@@ -3,9 +3,9 @@
 </p>
 
 
-# ******
+# ***28. CÁLCULO DEL RANGO DE UNA LISTA DE NÚMEROS***
 
-### **
+### *Escribe un programa que calcule y devuelva el rango de una lista de números ingresada por el usuario.*
 
 <p align="center">
   <img src="https://github.com/emilianod98/PythonChallenges-LowLevel/blob/main/src/funciones.png">
